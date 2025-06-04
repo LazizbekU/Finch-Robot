@@ -12,7 +12,5 @@ public class FinchTest {
         }else {
         	myFinch.setTurn("R", turn+90, 50);
         }
-        //myFinch.stopAll();
-        //myFinch.disconnect();
     }
 }
