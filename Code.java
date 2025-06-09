@@ -4,8 +4,8 @@ public class FinchTest {
         while(myFinch.getDistance()>20) {
         	myFinch.setMove("F", 10, 50);
         }
-        myFinch.stop(5);
-        int turn = (Math.random*180);
+        myFinch.stop(30);
+        int turn = Math.random()*180;
         if(turn>90) {
         	myFinch.setTurn("L", turn, 50);
         
