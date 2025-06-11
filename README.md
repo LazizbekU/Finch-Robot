@@ -52,6 +52,6 @@ public class FinchTest {
 ---
 
 
-- My motivation was to make people try out their luck by seeing how many points they earn. The further away from the center the ball lands the more points they get because it get more and more rare for the ball to go     further out of the center.
-- I built this porject to give people a rush of dopamine when they score big making others want to test their luck too.
-- My project stands out because my project is only based on luck.
+- **Motivation:** I wanted to create a fun experience where people could test their luck and get excited by the outcome.
+- **Why I Built It:** The idea was to give people a rush of dopamine when they scored high — which would make others curious and want to try as well.
+- **What makes it stand out:** Unlike other games mine is based entirely on luck, making it unpredictable and exciting.
