@@ -13,7 +13,7 @@
 <details>
 <summary><strong>Inspiration for the Project</strong></summary>
 
-I wanted to serve people **Oreos** as a prize for participating!
+I wanted people to try their **luck**.
 </details>
 
 ---
