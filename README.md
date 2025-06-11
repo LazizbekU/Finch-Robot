@@ -19,7 +19,7 @@ I wanted to serve people **Oreos** as a prize for participating!
 ---
 
 ### Design Cycle
-<img src="design_cycle.png" alt="design cycle" width="300" height="300">
+<img src="Design-thinking-diagram.webp" alt="design cycle" width="300" height="300">
 
 ###### Include commentary on your experience with the design cycle during this project
 
