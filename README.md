@@ -13,7 +13,7 @@
 <details>
 <summary><strong>Inspiration for the Project</strong></summary>
 
-I wanted people to test their **luck**.
+I wanted people to test their **luck**!
 </details>
 
 ---
