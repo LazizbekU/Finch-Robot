@@ -22,7 +22,7 @@ I wanted people to test their **luck**!
 <img src="Design-thinking-diagram.webp" alt="design cycle" width="300" height="300">
 
 - **First:**: I made a prototype, it was too small and could't be assembled properly.
-- **Second:** I Idieated it and made it bigger but didn't get to test it because there wasn't enough time to print it.
+- **Second:** I Ideate it and made it bigger but didn't get to test it because there wasn't enough time to print it.
 
 ---
 
