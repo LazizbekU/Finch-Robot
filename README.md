@@ -6,7 +6,7 @@
 |:---------:| :-----------:|:------------|
 |    ✅     | Familiarize  | Learn how to: <ul><li>Connect to the robot</li><li>Interpret what built-in sensors detect</li><li>Program basics in SNAP!</li><li>Setup local developing environment to code in Java</li></ul>|
 |    ✅     | 3D Design    |             |
-|    ❌     | Develop Code |             |
+|    ✅     | Develop Code |             |
 
 ---
 
@@ -52,9 +52,6 @@ public class FinchTest {
 ---
 
 
-- What was your motivation?
-    -My motivation was to make people try out their luck by seeing how many points they earn. The further away from the center the ball lands the more points they get because it get more and more rare for the ball to go     further out of the center.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-- What makes your project stand out?
+-My motivation was to make people try out their luck by seeing how many points they earn. The further away from the center the ball lands the more points they get because it get more and more rare for the ball to go     further out of the center.
+- I built this porject to give people a rush of dopamine when they score big making others want to test their luck too.
+- My project stands out because my project is only based on luck.
