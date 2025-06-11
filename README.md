@@ -26,6 +26,7 @@ I wanted to serve people **Oreos** as a prize for participating!
 ---
 
 ### Code to Highlight
+```java
 public class FinchTest {
     public static void main(String[] args) {
         for(int i = 0; i<30; i++){
@@ -46,11 +47,13 @@ public class FinchTest {
         myFinch.quit();
     }
 }
+```
 
 ---
 
-### Choose At Least Three of the Following to Include:
+
 - What was your motivation?
+  My motivation was to make people try out their luck by seeing how many points they earn. The further away from the center the ball lands the more points they get because it get more and more rare for the ball to go further out of the center.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 - What did you learn?
